@@ -9,7 +9,12 @@ LEAP 2.1 merupakan sebuah website LMS (Learning Management System) yang digunaka
 Pada proyek ini, saya terlibat didalam mengumpulkan informasi (Requirement Gathering), pembuatan software requirements specification, dan berperan sebagai anggota dari tim developer serta menjadi maintainer untuk back-end(laravel).
 
 ### Page
+| Landing Page      | Registration Page         | Dashboard       | Material Page        |
+| ------------- |-------------| -------------| ------------- |
+| ![Landing Page](https://raw.githubusercontent.com/fxdavidh/MyPortfolio/main/images/Leap/landingPage.jpg "Landing Page") | ![Registration Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/registPage.png?raw=true "Registration Page") | ![Dashboard](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/dashboard.png?raw=true "Dashboard") | ![Material Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/materialPage.png?raw=true "Material Page") |
 
+| Attendance Page      | Project Page         | Class List Page       |
+| ------------- |-------------| -------------|
 
 ## Project 2 : Buncis (BNCC Information System)
 
