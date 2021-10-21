@@ -15,7 +15,7 @@ Pada proyek ini, saya terlibat didalam mengumpulkan informasi (Requirement Gathe
 
 | Attendance Page      | Project Page         | Class List Page       |
 | ------------- |-------------| -------------|
-| ![Attendance Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/attendance.png?raw=true "Attendance Page") | | ![Project Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/projectPage.png?raw=true "Project Page") | | ![Class List Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/classPage.png?raw=true "Class List Page") |
+| ![Attendance Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/attendance.png?raw=true "Attendance Page") | ![Project Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/projectPage.png?raw=true "Project Page") | ![Class List Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Leap/classPage.png?raw=true "Class List Page") |
 
 ## Project 2 : Buncis (BNCC Information System)
 
@@ -28,7 +28,7 @@ Pada proyek ini, saya berperan sebagai anggota dari tim back-end developer serta
 ### Page
 | Dashboard EEO      | Event List Page         | Event Details Page       |
 | ------------- |-------------| -------------|
-| ![Dashboard EEO](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/Dashboard.png?raw=true "Dashboard EEO") | | ![Event List Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/EVENT%20LIST.png?raw=true "Event List Page") | | ![Event Details Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/EVENT%20DETAIL.png?raw=true "Event Details Page") |
+| ![Dashboard EEO](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/Dashboard.png?raw=true "Dashboard EEO") | ![Event List Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/EVENT%20LIST.png?raw=true "Event List Page") | ![Event Details Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/buncis/EVENT%20DETAIL.png?raw=true "Event Details Page") |
 
 ## Project 3 : [Technoscape BNCC 2021](https://technoscape.id/)
 
@@ -41,7 +41,7 @@ Pada proyek ini, saya berperan sebagai back-end developer, dan berkontribusi did
 ### Page
 | Landing Page      | Admin Panel         |
 | ------------- |-------------|
-| ![Landing Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Ts/landingPage.png?raw=true "Landing Page") | | ![Admin Panel](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Ts/adminPage.png?raw=true "Admin Panel") |
+| ![Landing Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Ts/landingPage.png?raw=true "Landing Page") | ![Admin Panel](https://github.com/fxdavidh/MyPortfolio/blob/main/images/Ts/adminPage.png?raw=true "Admin Panel") |
 
 ## Project 4 : [UMKM By Videfel](https://umkm-videfel.herokuapp.com/view/umkm)
 
@@ -57,7 +57,7 @@ Github : [UMKM By Videfel](https://github.com/fxdavidh/Umkm)
 ### Page
 | Home Page      | Registration Page         |
 | ------------- |-------------|
-| ![Home Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/videfel/homePage.png?raw=true "Home Page") | | ![Registration Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/videfel/registPage.png?raw=true "Registration Page") |
+| ![Home Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/videfel/homePage.png?raw=true "Home Page") | ![Registration Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/videfel/registPage.png?raw=true "Registration Page") |
 
 ## Project 5 : [Doto2](https://fxdavidh.github.io/Doto2/html/)
 
@@ -73,7 +73,7 @@ Github : [Doto2](https://github.com/fxdavidh/Doto2)
 ### Page
 | Landing Page      | Heroes Page         | Registration Page       |
 | ------------- |-------------| -------------|
-| ![Landing Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/landingPage.png?raw=true "Landing Page") | | ![Heroes Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/heroPage.png?raw=true "Heroes Page") | | ![Registration Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/registPage.png?raw=true "Registration Page") |
+| ![Landing Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/landingPage.png?raw=true "Landing Page") | ![Heroes Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/heroPage.png?raw=true "Heroes Page") | ![Registration Page](https://github.com/fxdavidh/MyPortfolio/blob/main/images/doto2/registPage.png?raw=true "Registration Page") |
 
 ## Project 6 : Search Relevant Citations Based on a Paper (Research)
 
@@ -86,4 +86,4 @@ Pada proyek ini, saya berkontribusi didalam melakukan research mengenai LDA dan 
 ### Result
 | LDA Result      | SERP API         | Search Result       |
 | ------------- |-------------| -------------|
-| ![LDA Result](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/lda.png?raw=true "LDA Result") | | ![SERP API](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/serpApi.png?raw=true "SERP API") | | ![Search Result](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/serpApi.png?raw=true "Search Result") |
+| ![LDA Result](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/lda.png?raw=true "LDA Result") | ![SERP API](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/serpApi.png?raw=true "SERP API") | ![Search Result](https://github.com/fxdavidh/MyPortfolio/blob/main/images/research/serpApi.png?raw=true "Search Result") |
